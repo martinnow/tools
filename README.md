@@ -8,6 +8,14 @@ https://gist.github.com/ 你可以查找任何你需要搜索的问题
 提供移动开发一站式解决方案
 http://wetest.qq.com/
 
+阿里云
+--------
+https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492
+
+百度MTC-移动云测试中心
+--------
+http://mtc.baidu.com/
+
 第三方数据统计工具
 --------
 [友盟+](http://www.umeng.com/)
